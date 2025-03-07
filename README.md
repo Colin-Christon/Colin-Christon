@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colin-christon" alt="colin-christon" /></a> </p>
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-colins-projects-da1d7086.vercel.app/](https://portfolio-colins-projects-da1d7086.vercel.app/)
 
